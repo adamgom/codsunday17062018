@@ -50,3 +50,21 @@
 .tablist__item input[type="radio"]:checked+label {
     background-color: #ccc;
 }
+
+h3 {
+  margin: 0 20px;
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;  
+}
+
+p {
+  margin: 20px;
+  text-align: justify; 
+  max-height: 350px;
+  overflow-y: auto;
+}
+
+form {
+  border-top: 1px solid black;
+}
